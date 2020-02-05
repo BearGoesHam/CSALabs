@@ -1,3 +1,7 @@
+package bank;
+
+import bank.BankAccount;
+
 public class Bankuser
 {
 

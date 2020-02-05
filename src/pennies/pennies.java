@@ -1,3 +1,5 @@
+package pennies;
+
 public class pennies
 {
     private static double pennies;

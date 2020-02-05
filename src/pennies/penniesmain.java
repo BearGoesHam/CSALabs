@@ -1,3 +1,7 @@
+package pennies;
+
+import pennies.pennies;
+
 public class penniesmain
 {
 
