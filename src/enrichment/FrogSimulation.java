@@ -37,8 +37,8 @@ public class FrogSimulation
 
         for(int i = 0; i < num; i++)
         {
-            simulate();
-            if(simulate() == true)
+            boolean test = simulate();
+            if(test == true)
             {
                 correct++;
             }
